@@ -9,6 +9,8 @@ public class ECommerceMApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ECommerceMApplication.class, args);
 
+		System.out.println("First git demo");
+
 	}
 
 }
